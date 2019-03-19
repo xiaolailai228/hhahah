@@ -1,0 +1,21 @@
+[ {
+  "uid" : "3774f0939ee96982",
+  "name" : "Hml1.testhml1",
+  "time" : {
+    "start" : 1552904641892,
+    "stop" : 1552904641895,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6dc2d783b637d86",
+  "name" : "Hml1.testhml2",
+  "time" : {
+    "start" : 1552904641896,
+    "stop" : 1552904641897,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

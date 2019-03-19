@@ -1,0 +1,5 @@
+data: &hello
+ age: 18
+ height: 160
+data02:
+ <<: *hello

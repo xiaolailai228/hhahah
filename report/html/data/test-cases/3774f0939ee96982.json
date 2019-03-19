@@ -1,0 +1,60 @@
+{
+  "uid" : "3774f0939ee96982",
+  "name" : "Hml1.testhml1",
+  "fullName" : "htm.Hml1.testhml1",
+  "historyId" : "48e534632b948df35201d26c2d61b674",
+  "time" : {
+    "start" : 1552904641892,
+    "stop" : 1552904641895,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-I8M8L54"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14808-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "htm"
+  }, {
+    "name" : "testClass",
+    "value" : "htm"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hml1.testhml1"
+  }, {
+    "name" : "package",
+    "value" : "htm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3774f0939ee96982.json",
+  "parameterValues" : [ ]
+}

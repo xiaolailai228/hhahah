@@ -1,0 +1,24 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552976611961" stop="1552976611961">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1552976611961" status="broken" stop="1552976611961">
+      <name>test_login</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>scripts\test_login.py:21: in &lt;module&gt;
+    class TestLogin:
+scripts\test_login.py:30: in TestLogin
+    @pytest.mark.parametrize("username,pwd", get_data())
+scripts\test_login.py:16: in get_data
+    for data in datas.values():
+E   AttributeError: 'NoneType' object has no attribute 'values'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

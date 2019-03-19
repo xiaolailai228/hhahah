@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "htm",
+    "children" : [ {
+      "name" : "Hml1.testhml1",
+      "uid" : "3774f0939ee96982",
+      "parentUid" : "ba813afde20bfd1b96c617b877267d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552904641892,
+        "stop" : 1552904641895,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Hml1.testhml2",
+      "uid" : "c6dc2d783b637d86",
+      "parentUid" : "ba813afde20bfd1b96c617b877267d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552904641896,
+        "stop" : 1552904641897,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ba813afde20bfd1b96c617b877267d90"
+  } ]
+}

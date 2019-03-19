@@ -1,0 +1,4 @@
+{
+  "scripts/test_login.py": true,
+  "scripts/test_login_txt.py": true
+}
